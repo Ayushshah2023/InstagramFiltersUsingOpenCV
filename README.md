@@ -1,7 +1,7 @@
 # InstagramFiltersUsingOpenCV
 Implementing Many Instagram filters using OpenCV and also exploring Pilgram Library of Python
 
-Implementing Instagram Filters using: Numpy,Scikit,OpenCV,PIL and Matplotlib
+Implementing Instagram Filters using: Numpy,Scikit,Skimage,OpenCV,PIL and Matplotlib
 
 ## Filters Implemented are:
 
