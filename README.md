@@ -5,6 +5,14 @@ Implementing Instagram Filters using: Numpy,Scikit,Skimage,OpenCV,PIL and Matplo
 
 ## Filters Implemented are:
 
+Robert
+
+Prewitt
+
+Compass
+
+Sobel
+
 Blur
 
 Edge Detection 
